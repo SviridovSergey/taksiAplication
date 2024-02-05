@@ -10,4 +10,4 @@
 
 *Ипользуемые библеотеки*:  
 *фреймворк QT  
-*библеотека QMessageBox,QComboBox  
+*библеотека QMessageBox,QComboBox,QMake   
