@@ -2,6 +2,9 @@
 #define MAINWINDOW_H
 #include <QMainWindow>
 #include "secondmainwindow.h"
+#include <vector>
+#include <QAbstractButton>
+#include <QMessageBox>
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
